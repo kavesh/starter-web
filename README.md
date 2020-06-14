@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Deployment stages on different enviroment
+cert, sct, mct
 
 ## Testing Enviroment
 This is temp commits
